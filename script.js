@@ -12,4 +12,5 @@ function calculateAkanName() {
   const gender = document.querySelector('[data-input="gender"]').value;
   const resultDisplay = document.querySelector('[data-ref="result"]');
 
-}
+  if (!dd || !mm || !yearInput) return alert("Please fill in all fields!");
+
