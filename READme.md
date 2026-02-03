@@ -8,7 +8,6 @@ The **Akan Name Generator** is a web application that takes a user's birthday an
 
 * **Name:** Khalid Abdi
 * **GitHub:** https://github.com/Accurate-shift
-* **Portfolio/LinkedIn:** [INSERT LINK HERE]
 
 ## Setup Instructions
 
@@ -16,7 +15,7 @@ To get this project running on your local machine, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone [INSERT REPO URL HERE]
+git clone https://github.com/Accurate-shift/Akan#
 
 ```
 
