@@ -11,3 +11,12 @@ body{
     height: 100vh;
     width: 100vw;
 }
+.contain{
+    background-color: #460793;
+   color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 200px auto;
+
+
+}
